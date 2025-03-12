@@ -61,7 +61,8 @@ html {
     text-align: center;
     font-weight: 400;
     font-size: 40px;
-    color: var(--dark-color,#221f20);
+    /* color: var(--dark-color,#221f20); */
+    color: red;
 
     span {
         position: relative;
